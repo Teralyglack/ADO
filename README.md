@@ -21,5 +21,81 @@ ER диаграмма:
 
 <img width="753" height="525" alt="Снимок экрана 2025-10-13 144745" src="https://github.com/user-attachments/assets/72ed174c-aa5a-49a1-a9d2-80bd4e0c1ebb" />
 
+Диаграмма БД:
+<img width="974" height="583" alt="image" src="https://github.com/user-attachments/assets/786972b5-69c3-4ba1-9d06-3abf074ebc87" />
+
+Процесс нормализации:
+1.	Приведение к 1НФ
+
+Цель: Устранить повторяющиеся группы и обеспечить атомарность данных
+
+Улучшения:
+•	Все поля атомарны
+•	Есть первичный ключ
+•	Но есть дублирование данных
+
+Приведение к 2НФ:
+
+Цель: Устранить частичные зависимости от первичного ключа.
+
+Таблица 2.1: RESERVATIONS_2NF
+ <img width="974" height="115" alt="image" src="https://github.com/user-attachments/assets/b9ac8853-2dd6-4652-b54b-ba01444fc695" />
+
+Таблица 2.2: CUSTOMERS_2NF
+ <img width="974" height="113" alt="image" src="https://github.com/user-attachments/assets/41e84372-bc14-4979-b280-29beaa96a22b" />
+
+Таблица 2.3: ROOMS_2NF
+ <img width="974" height="96" alt="image" src="https://github.com/user-attachments/assets/9e6d8c46-8183-46b4-a6d6-fbdf4bcb6732" />
+
+Таблица 2.4: HOTELS_2NF
+ <img width="974" height="100" alt="image" src="https://github.com/user-attachments/assets/42218160-aae4-4c86-838a-7eb3c1914e94" />
+
+ Улучшения:
+•	Устранены частичные зависимости
+•	Данные логически разделены
+•	Но остались транзитивные зависимости
+
+Приведение к 3НФ
+Цель: Устранить транзитивные зависимости.
+
+Таблица 3.1: RESERVATIONS_3NF
+ <img width="974" height="106" alt="image" src="https://github.com/user-attachments/assets/8e11f3f1-3f7b-4bb7-80e1-4428927501bb" />
+
+Таблица 3.2: CUSTOMERS_3NF
+ <img width="974" height="104" alt="image" src="https://github.com/user-attachments/assets/ce9ce96f-1195-4ae4-9131-b5c4bd52930e" />
+
+Таблица 3.3: ROOMS_3NF
+ <img width="974" height="100" alt="image" src="https://github.com/user-attachments/assets/cd944973-a0b0-4d99-8869-47e499af7579" />
+
+Таблица 3.4: ROOM_TYPES_3NF
+ <img width="974" height="98" alt="image" src="https://github.com/user-attachments/assets/607f3238-c90d-4d00-bc94-4ab1add24475" />
+
+Таблица 3.5: HOTELS_3NF
+ <img width="974" height="77" alt="image" src="https://github.com/user-attachments/assets/b1306741-1c01-4835-b57f-1a517bf2f351" />
+
+Таблица 3.6: EMPLOYEES_3NF
+ <img width="974" height="74" alt="image" src="https://github.com/user-attachments/assets/7d955356-dd39-43df-a3dd-c7b366693a78" />
+
+Таблица 3.7: PAYMENTS_3NF
+ <img width="974" height="93" alt="image" src="https://github.com/user-attachments/assets/a0a6ae85-ca7d-49ae-b8e4-0c3b2b1c5ed0" />
+
+
+Ненормализованные таблицы (1НФ):
+
+•	Быстрое чтение
+•	Дублирование данных
+•	Сложность обновлений
+•	Риск несогласованности
+
+Нормализованные таблицы (3НФ):
+
+•	Минимум дублирования
+•	Легкость обновлений
+•	Целостность данных
+•	Медленные запросы (много JOIN)
+•	Сложная структура
+
+
+
 
 
