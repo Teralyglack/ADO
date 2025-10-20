@@ -133,6 +133,9 @@ ER диаграмма:
 •	Сложная структура
 
 
+Документация в формате PDF:
+
+[Новый документ - Google Документы.pdf](https://github.com/user-attachments/files/23000083/-.Google.pdf)
 
 
 
