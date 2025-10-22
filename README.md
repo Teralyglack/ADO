@@ -137,5 +137,7 @@ ER диаграмма:
 
 [Новый документ - Google Документы.pdf](https://github.com/user-attachments/files/23000083/-.Google.pdf)
 
+Презентация:
+[Система регистрации клиентов в гостиницах.pdf](https://github.com/user-attachments/files/23050344/default.pdf)
 
 
