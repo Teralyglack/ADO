@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projjjADO\\Mar21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59FDD0D0-65DB-4FC9-B364-6012BD6F1C99}|Mar21\\Mar21.csproj|d:\\projjjado\\mar21\\mar21\\services\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FDD0D0-65DB-4FC9-B364-6012BD6F1C99}|Mar21\\Mar21.csproj|solutionrelative:mar21\\services\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FDD0D0-65DB-4FC9-B364-6012BD6F1C99}|Mar21\\Mar21.csproj|d:\\projjjado\\mar21\\mar21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FDD0D0-65DB-4FC9-B364-6012BD6F1C99}|Mar21\\Mar21.csproj|solutionrelative:mar21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FDD0D0-65DB-4FC9-B364-6012BD6F1C99}|Mar21\\Mar21.csproj|d:\\projjjado\\mar21\\mar21\\services\\ihotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FDD0D0-65DB-4FC9-B364-6012BD6F1C99}|Mar21\\Mar21.csproj|solutionrelative:mar21\\services\\ihotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FDD0D0-65DB-4FC9-B364-6012BD6F1C99}|Mar21\\Mar21.csproj|d:\\projjjado\\mar21\\mar21\\exceptions\\hotelexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FDD0D0-65DB-4FC9-B364-6012BD6F1C99}|Mar21\\Mar21.csproj|solutionrelative:mar21\\exceptions\\hotelexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FDD0D0-65DB-4FC9-B364-6012BD6F1C99}|Mar21\\Mar21.csproj|d:\\projjjado\\mar21\\mar21\\validators\\inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FDD0D0-65DB-4FC9-B364-6012BD6F1C99}|Mar21\\Mar21.csproj|solutionrelative:mar21\\validators\\inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FDD0D0-65DB-4FC9-B364-6012BD6F1C99}|Mar21\\Mar21.csproj|d:\\projjjado\\mar21\\mar21\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FDD0D0-65DB-4FC9-B364-6012BD6F1C99}|Mar21\\Mar21.csproj|solutionrelative:mar21\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FDD0D0-65DB-4FC9-B364-6012BD6F1C99}|Mar21\\Mar21.csproj|d:\\projjjado\\mar21\\mar21\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FDD0D0-65DB-4FC9-B364-6012BD6F1C99}|Mar21\\Mar21.csproj|solutionrelative:mar21\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FDD0D0-65DB-4FC9-B364-6012BD6F1C99}|Mar21\\Mar21.csproj|d:\\projjjado\\mar21\\mar21\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FDD0D0-65DB-4FC9-B364-6012BD6F1C99}|Mar21\\Mar21.csproj|solutionrelative:mar21\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FDD0D0-65DB-4FC9-B364-6012BD6F1C99}|Mar21\\Mar21.csproj|d:\\projjjado\\mar21\\mar21\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FDD0D0-65DB-4FC9-B364-6012BD6F1C99}|Mar21\\Mar21.csproj|solutionrelative:mar21\\models\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FDD0D0-65DB-4FC9-B364-6012BD6F1C99}|Mar21\\Mar21.csproj|d:\\projjjado\\mar21\\mar21\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FDD0D0-65DB-4FC9-B364-6012BD6F1C99}|Mar21\\Mar21.csproj|solutionrelative:mar21\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FDD0D0-65DB-4FC9-B364-6012BD6F1C99}|Mar21\\Mar21.csproj|d:\\projjjado\\mar21\\mar21\\mar21.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{59FDD0D0-65DB-4FC9-B364-6012BD6F1C99}|Mar21\\Mar21.csproj|solutionrelative:mar21\\mar21.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HotelService.cs",
+              "DocumentMoniker": "D:\\projjjADO\\Mar21\\Mar21\\Services\\HotelService.cs",
+              "RelativeDocumentMoniker": "Mar21\\Services\\HotelService.cs",
+              "ToolTip": "D:\\projjjADO\\Mar21\\Mar21\\Services\\HotelService.cs",
+              "RelativeToolTip": "Mar21\\Services\\HotelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:55:01.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HotelException.cs",
+              "DocumentMoniker": "D:\\projjjADO\\Mar21\\Mar21\\Exceptions\\HotelException.cs",
+              "RelativeDocumentMoniker": "Mar21\\Exceptions\\HotelException.cs",
+              "ToolTip": "D:\\projjjADO\\Mar21\\Mar21\\Exceptions\\HotelException.cs",
+              "RelativeToolTip": "Mar21\\Exceptions\\HotelException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T06:13:38.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IHotelService.cs",
+              "DocumentMoniker": "D:\\projjjADO\\Mar21\\Mar21\\Services\\IHotelService.cs",
+              "RelativeDocumentMoniker": "Mar21\\Services\\IHotelService.cs",
+              "ToolTip": "D:\\projjjADO\\Mar21\\Mar21\\Services\\IHotelService.cs",
+              "RelativeToolTip": "Mar21\\Services\\IHotelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T06:12:31.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputValidator.cs",
+              "DocumentMoniker": "D:\\projjjADO\\Mar21\\Mar21\\Validators\\InputValidator.cs",
+              "RelativeDocumentMoniker": "Mar21\\Validators\\InputValidator.cs",
+              "ToolTip": "D:\\projjjADO\\Mar21\\Mar21\\Validators\\InputValidator.cs",
+              "RelativeToolTip": "Mar21\\Validators\\InputValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T06:13:09.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projjjADO\\Mar21\\Mar21\\Program.cs",
+              "RelativeDocumentMoniker": "Mar21\\Program.cs",
+              "ToolTip": "D:\\projjjADO\\Mar21\\Mar21\\Program.cs",
+              "RelativeToolTip": "Mar21\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:49:50.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\projjjADO\\Mar21\\Mar21\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Mar21\\Models\\Employee.cs",
+              "ToolTip": "D:\\projjjADO\\Mar21\\Mar21\\Models\\Employee.cs",
+              "RelativeToolTip": "Mar21\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T06:08:31.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\projjjADO\\Mar21\\Mar21\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "Mar21\\Models\\Reservation.cs",
+              "ToolTip": "D:\\projjjADO\\Mar21\\Mar21\\Models\\Reservation.cs",
+              "RelativeToolTip": "Mar21\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:53:45.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\projjjADO\\Mar21\\Mar21\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Mar21\\Models\\Room.cs",
+              "ToolTip": "D:\\projjjADO\\Mar21\\Mar21\\Models\\Room.cs",
+              "RelativeToolTip": "Mar21\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:53:38.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "D:\\projjjADO\\Mar21\\Mar21\\Models\\RoomType.cs",
+              "RelativeDocumentMoniker": "Mar21\\Models\\RoomType.cs",
+              "ToolTip": "D:\\projjjADO\\Mar21\\Mar21\\Models\\RoomType.cs",
+              "RelativeToolTip": "Mar21\\Models\\RoomType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:53:30.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\projjjADO\\Mar21\\Mar21\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Mar21\\Models\\Customer.cs",
+              "ToolTip": "D:\\projjjADO\\Mar21\\Mar21\\Models\\Customer.cs",
+              "RelativeToolTip": "Mar21\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T10:53:20.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mar21.csproj",
+              "DocumentMoniker": "D:\\projjjADO\\Mar21\\Mar21\\Mar21.csproj",
+              "RelativeDocumentMoniker": "Mar21\\Mar21.csproj",
+              "ToolTip": "D:\\projjjADO\\Mar21\\Mar21\\Mar21.csproj",
+              "RelativeToolTip": "Mar21\\Mar21.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-06T10:52:34.31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
