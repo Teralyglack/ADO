@@ -135,9 +135,12 @@ ER диаграмма:
 
 Документация в формате PDF:
 
-[Новый документ - Google Документы.pdf](https://github.com/user-attachments/files/23000083/-.Google.pdf)
+[Новый документ (1).pdf](https://github.com/user-attachments/files/23051146/1.pdf)
+
+
 
 Презентация:
+
 [Система регистрации клиентов в гостиницах.pdf](https://github.com/user-attachments/files/23050344/default.pdf)
 
 
