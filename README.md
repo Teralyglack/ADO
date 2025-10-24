@@ -139,6 +139,6 @@ ER диаграмма:
 
 
 Презентация:
-[Система регистрации клиентов в гостиницах.pdf](https://github.com/user-attachments/files/23050344/default.pdf)
+https://docs.google.com/presentation/d/1WUqDQx_9y2aDTIQfnMbr2sp8TwKxSTfMG2FLwMAHxlo/edit?usp=sharing
 
 
